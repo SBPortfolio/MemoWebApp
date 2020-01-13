@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375026773587",
+    "firebase_url": "https://memowebapp-4c18a.firebaseio.com",
+    "project_id": "memowebapp-4c18a",
+    "storage_bucket": "memowebapp-4c18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375026773587:android:95067c76557d62b58d20a6",
+        "android_client_info": {
+          "package_name": "com.firebase.memoWebApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375026773587-bt0asjsrl8o1fq34jhu69uve5j0d51nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.memoWebApp",
+            "certificate_hash": "277c4821d2fcbccbc85d5ff72d7e3b8658a06adb"
+          }
+        },
+        {
+          "client_id": "375026773587-n82mooh3t0n17lm6uc07ndmm3iggppmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACg3nvjfGW6ZlYvYWrsIR299dQqTDSp-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375026773587-n82mooh3t0n17lm6uc07ndmm3iggppmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
